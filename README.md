@@ -51,5 +51,5 @@ Contribuições são bem-vindas! Siga as etapas:
 5. Abra um Pull Request.
 
 ## 📧 Contato
-Caso tenha dúvidas ou sugestões, entre em contato através de [seu email ou redes sociais].
+Caso tenha dúvidas ou sugestões, entre em contato através de https://junovan.com.br.
 
