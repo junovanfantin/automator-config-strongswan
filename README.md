@@ -1,0 +1,1 @@
+# automator-config-strongswan
